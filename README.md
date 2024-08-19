@@ -2,14 +2,13 @@
 An open source repository dedicated to compiling papers and code relating to strawberry/Q*
 
 A (Very rough Perplexity page describing it)[https://www.perplexity.ai/page/q-leak-at-openai-overview-LmxxlXACT3m6ahnN6G1kLg]
+AI Explained Video (Q* Explained)[https://www.youtube.com/watch?v=ARf0WyFau0A]
 Start by dumping links to the research papers here:
 
 STaR -- Self TAught Reasoner
 (The OG Quiet Star paper)[https://arxiv.org/abs/2403.09629]
 
 (Improvement on Quiet STaR?)[https://contextual.ai/addressing-underspecification-in-language-model-alignment/]
-
-
 
 
 
