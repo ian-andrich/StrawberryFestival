@@ -7,7 +7,7 @@ Start by dumping links to the research papers here:
 STaR -- Self TAught Reasoner
 (The OG Quiet Star paper)[https://arxiv.org/abs/2403.09629]
 
-
+(Improvement on Quiet STaR?)[https://contextual.ai/addressing-underspecification-in-language-model-alignment/]
 
 
 
