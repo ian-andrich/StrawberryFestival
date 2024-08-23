@@ -1,3 +1,10 @@
+# Orders of Business
+
+1. Go through the news articles around the Q* and Strawberry Leaks to find the papers relating to the project, listed below.
+2. Rank them by strength of effect, ease of implementation, ease of operationalizing, etc.
+Attempt to categorize them into relevant buckets
+3. Write up code snippets so that people can treat them as templates.
+
 # StrawberryFestival
 An open source repository dedicated to compiling papers and code relating to strawberry/Q*
 
