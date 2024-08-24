@@ -33,5 +33,7 @@ Start by dumping links to the research papers here:
   
   *Description*: This paper explores the concept of test-time computation, where additional computational resources are used during the inference phase to generate multiple candidate solutions. The best solution is then selected using a verification model, improving overall accuracy.
 
+- **[Prover Verifier Games for Legibility](https://openai.com/index/prover-verifier-games-improve-legibility/)**
+
 ### Original Attention is All You Need
 - **[OG "Attention is All You Need" Paper](https://arxiv.org/pdf/1706.03762)**
