@@ -1,5 +1,7 @@
 # Orders of Business
 
+The Goal is to get the three main strawberry papers that seemed to have high potential for improving self improvement techniques for AI.
+
 1. Go through the news articles around the Q* and Strawberry Leaks to find the papers relating to the project, listed below.
 2. Rank them by strength of effect, ease of implementation, ease of operationalizing, and raw dankness, etc. Attempt to categorize them into relevant buckets.
 3. Write up code snippets so that people can treat them as templates.
