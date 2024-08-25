@@ -6,6 +6,12 @@ The Goal is to get the three main strawberry papers that seemed to have high pot
 2. Rank them by strength of effect, ease of implementation, ease of operationalizing, and raw dankness, etc. Attempt to categorize them into relevant buckets.
 3. Write up code snippets so that people can treat them as templates.
 
+# The 3 "holy grail" papers
+
+1 was on self alignment.
+1 was on distillation techniques I think.
+I'm trying to remember the third.
+
 # StrawberryFestival
 An open source repository dedicated to compiling papers and code relating to Strawberry/Q*.
 
