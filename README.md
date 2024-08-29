@@ -10,7 +10,7 @@ The Goal is to get the three main strawberry papers that seemed to have high pot
 
 1 was on self alignment.
 1 was on distillation techniques I think.
-I'm trying to remember the third.
+I'm pretty sure the third was lets verify step by step.
 
 # StrawberryFestival
 An open source repository dedicated to compiling papers and code relating to Strawberry/Q*.
