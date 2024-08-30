@@ -43,5 +43,11 @@ Start by dumping links to the research papers here:
 
 - **[Prover Verifier Games for Legibility](https://openai.com/index/prover-verifier-games-improve-legibility/)**
 
+### Definitely Not Part of the Strawberry/Q* Papers But DAnk and Adjacent
+
+- **[Metacognition](https://arxiv.org/abs/2405.12205)**
+
+  *Description*: This paper goes into metacognition and fine grained to coarse grained skill acquisition in ways that transfer between llms.
+
 ### Original Attention is All You Need
 - **[OG "Attention is All You Need" Paper](https://arxiv.org/pdf/1706.03762)**
