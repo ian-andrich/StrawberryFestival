@@ -21,7 +21,11 @@ A [Very Rough Perplexity Page Describing It](https://www.perplexity.ai/page/q-le
 Start by dumping links to the research papers here:
 
 ### STaR -- Self TAught Reasoner
-- **[The OG Quiet Star Paper](https://arxiv.org/abs/2403.09629)**
+
+- **[Self Taught Reasoner](https://arxiv.org/pdf/2203.14465)**
+  * Description*: Oops, I think this was the OG Star Paper, not the Quiet STar
+
+- **[Quiet Star Paper](https://arxiv.org/abs/2403.09629)**
 
 - **[Improvement on Quiet STaR?](https://contextual.ai/addressing-underspecification-in-language-model-alignment/)**
 
